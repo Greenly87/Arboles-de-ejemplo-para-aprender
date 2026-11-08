@@ -40,7 +40,7 @@ function mostrarNivel(nodo, nivel) {
 }
 
 console.log("Nivel 2:");
-mostrarNivel(arbol, 2); // 5 y 15
+mostrarNivel(arbol, 2);
 
 console.log("Nivel 3:");
-mostrarNivel(arbol, 3); // 3, 7 y 20
+mostrarNivel(arbol, 3); 

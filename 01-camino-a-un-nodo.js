@@ -47,6 +47,6 @@ function buscarCamino(nodo, valor) {
   return camino;
 }
 
-console.log("Camino al 7:", buscarCamino(arbol, 7));   // [10, 5, 7]
-console.log("Camino al 20:", buscarCamino(arbol, 20)); // [10, 15, 20]
-console.log("Camino al 99:", buscarCamino(arbol, 99)); // null
+console.log("Camino al 7:", buscarCamino(arbol, 7));
+console.log("Camino al 20:", buscarCamino(arbol, 20));
+console.log("Camino al 99:", buscarCamino(arbol, 99));

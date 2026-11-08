@@ -38,5 +38,5 @@ function masALaDerecha(nodo) {
   return nodo.valor;
 }
 
-console.log("Más a la izquierda:", masALaIzquierda(arbol)); // 3
-console.log("Más a la derecha:", masALaDerecha(arbol));     // 20
+console.log("Más a la izquierda:", masALaIzquierda(arbol));
+console.log("Más a la derecha:", masALaDerecha(arbol));

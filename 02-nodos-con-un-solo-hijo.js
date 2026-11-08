@@ -43,4 +43,4 @@ function unSoloHijo(nodo) {
 }
 
 console.log("Nodos con un solo hijo:");
-unSoloHijo(arbol); // 15
+unSoloHijo(arbol);

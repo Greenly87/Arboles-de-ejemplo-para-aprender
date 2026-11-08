@@ -51,10 +51,10 @@ function inorden(nodo, lista) {
 
 const antes = [];
 inorden(arbol, antes);
-console.log("Antes:", antes); // [3, 5, 7, 10, 15, 20]
+console.log("Antes:", antes); 
 
 podar(arbol);
 
 const despues = [];
 inorden(arbol, despues);
-console.log("Después:", despues); // [5, 10, 15]
+console.log("Después:", despues); 

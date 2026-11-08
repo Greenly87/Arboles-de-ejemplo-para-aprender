@@ -54,6 +54,6 @@ function buscarHermano(nodo, valor) {
   return resultado;
 }
 
-console.log("Hermano del 5:", buscarHermano(arbol, 5));   // 15
-console.log("Hermano del 3:", buscarHermano(arbol, 3));   // 7
-console.log("Hermano del 20:", buscarHermano(arbol, 20)); // null
+console.log("Hermano del 5:", buscarHermano(arbol, 5));  
+console.log("Hermano del 3:", buscarHermano(arbol, 3)); 
+console.log("Hermano del 20:", buscarHermano(arbol, 20)); 
